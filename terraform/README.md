@@ -5,3 +5,4 @@ sudo unzip terraform_*
 #copy it to /usr/local/bin
 cp terraform /usr/local/bin
 terraform -version
+terraform init
